@@ -1,0 +1,10 @@
+a = int(input("Nhap 1 so bat ki: "))
+if a > 5:{
+    print("So", a,"lon hon 5")
+}
+elif a < 5:{
+   print("So", a,"be hon 5") 
+}
+else:{
+    print("So", a, "bang 5")
+}

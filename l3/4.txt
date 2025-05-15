@@ -1,0 +1,3 @@
+years = int(input("Input a year: "))
+leap_year = (years % 4 == 0)
+print("Is the year", years, "a leap year?", leap_year)

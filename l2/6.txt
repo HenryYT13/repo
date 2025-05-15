@@ -1,0 +1,10 @@
+name = "Le Phuc Chuong"
+age = 12
+sign = "Pisces"
+stgts = True
+avgscore = 9.8
+print("Name:", name)
+print("Age:", age)
+print("Sign:", sign)
+print("Still go to school?", stgts)
+print("Avg score (GPA):", avgscore)

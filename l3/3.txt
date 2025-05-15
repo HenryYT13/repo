@@ -1,0 +1,4 @@
+s = int(input("Insert the second: "))
+hour = (s // 3600)
+mins = 
+print(int(hour), "Hours")

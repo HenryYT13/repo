@@ -1,0 +1,13 @@
+a = input("Vui long nhap 1 loai qua: ")
+if a == "cam":{
+    print("Qua", a, "duoc cho vao gio A")
+}
+elif a == "tao":{
+    print("Qua", a, "duoc cho vao gio B")
+}
+elif a == "dao":{
+    print("Qua", a, "duoc cho vao gio C")
+}
+else:{
+    print("Qua", a, "duoc cho vao gio D")
+}

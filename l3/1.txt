@@ -1,0 +1,7 @@
+a = int(input("Nhap 1 so nguyen: "))
+dk1 = (a % 2 ==0 ) and (a>10)
+dk2 = (a // 2 ==1) and (a<5)
+dk3 = (a <= 20) and (a >= 50)
+print("1. n la so chan va lon hon 10:", dk1)
+print("2. n la so le va nho hon 5:", dk2)
+print("3. n khong nam trong khoang tu 20 den 50:", dk3)

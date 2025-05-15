@@ -1,0 +1,5 @@
+currentyear = 2025
+birthyear = 2013
+age = currentyear - birthyear
+print("Your birth year is: ", birthyear)
+print("And you are", age, "Years old")

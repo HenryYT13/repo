@@ -1,0 +1,7 @@
+a = int(input("Nhap 1 so bat ki: "))
+if a % 2 == 0 :{
+    print("So", a,"la so chan")
+}
+else :{
+   print("So", a,"la so le") 
+}

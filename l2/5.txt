@@ -1,0 +1,4 @@
+a = 12
+#True = "12"
+print(a)
+print(True)

@@ -1,0 +1,2 @@
+true = "10th01"
+print(type(true))
